@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="ReactJS" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$USER_HOME$/Downloads/react-0.14.7/build" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/react-0.14.7/build" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
